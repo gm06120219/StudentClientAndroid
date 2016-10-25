@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffff"
+    android:orientation="horizontal"
+    android:padding="20dp">
+
+
+    <TextView
+        android:id="@+id/tvId"
+        android:layout_width="50dp"
+        android:layout_height="40dp"
+        android:layout_weight="1"
+        android:text="Id" />
+
+    <TextView
+        android:id="@+id/tvName"
+        android:layout_width="50dp"
+        android:layout_height="40dp"
+        android:layout_weight="1"
+        android:text="Name" />
+
+    <TextView
+        android:id="@+id/tvSex"
+        android:layout_width="50dp"
+        android:layout_height="40dp"
+        android:layout_weight="1"
+        android:text="Sex" />
+
+    <TextView
+        android:id="@+id/tvClassid"
+        android:layout_width="50dp"
+        android:layout_height="40dp"
+        android:layout_weight="1"
+        android:text="Classid" />
+
+    <Button
+        android:id="@+id/btnEdit"
+        android:layout_width="60dp"
+        android:layout_height="40dp"
+        android:layout_weight="1"
+        android:text="EDIT"
+        android:textSize="14dp" />
+
+    <Button
+        android:id="@+id/btnDelete"
+        android:layout_width="60dp"
+        android:layout_height="40dp"
+        android:layout_weight="1"
+        android:text="DEL"
+        android:textSize="14dp" />
+
+</LinearLayout>
