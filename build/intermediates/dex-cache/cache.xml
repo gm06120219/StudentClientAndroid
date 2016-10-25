@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_5c8dcedae5959bb52f484ecb8345cfc93d77d9cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_07aba096539e8ef0368f69bf79d772ead7e76cd7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_c9573c2ba62b159fff99e081fb6143d4c5836d5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_0cc711852c51ff081154445d172ae22041b9e789/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f348c17357a7dfa2b00dcc8fb9e5461d7bd5a274/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a921a9401b22768683196ae19c9ed3a2c731a21">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8cadf25bd46b444fa7a8ec9072431507aa104bcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5bc46b0b13dd544cb01798c56bf7d96d9ce12f36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_35a100aa703c81ec86ec5fd346f38f60a5d2d9c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_3aa75e5c15ce72c631e6af61420fc4dd542e9a02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_540579b26bbd8b5c3d9767a612635c1025d5b306/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_0e35929e1d9fb91e7b049ef2814639d3ddc99d12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_125df2fc830827d309770d1faf8531d5cf269029/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_874ea80c9d79ce882d0d7f5cde3811c43fe9b3a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_b7744d3b61568eaa4db654e141617d4a8d638a1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_dbb997c31391ff8fffc05a193e6459f5b4e9a55f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_95c4b61554db6a5d02b54002c0412860fe267728/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_ea280835a2287ee1b2b7f570ae471dfedcf89f51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_28d8b06f695c523002a0af32a9cf2fc656a7c4f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_edb0c71cd7d9d84286566ab82ff9554042b542fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_06371a3232591681b588319f7fd58ceb62bfb3ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_2b6a9b46d523068124e8c1409ac78c3e4a9f5bfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2a39d5caf6a435180e07a2caca01c157cdf1ffec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="651aee7fc60174e724f262411244ccbdc6345529">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0ef43420b94a7e73dc1374caf1f6e24ce2de2370/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8a767a84f4ff881ee3e72f2e3efdd23bc59ec246/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_d387ff1e97f28f6bf324eb881507b94c2d031c35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_c8411dea6c20c6f01c8ff52ece1622766231bc46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/Documents/software/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_8e09d46f3a9f37fe0f3eacf9e25ecc571643518e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53d7f340c320cd321ab3427148cc4a27ddc948dc">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3be46e145df2e8b360a94501e5f9ebf5f541897b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_a3d9778c9c66a98daff0e3247a6c27b25567e880/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_94c55914c53443e4efa2f344524be25db5f2f5f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2d9af318c5962f762b1f87423c8593581038f218/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_79ccea98be994a80a0527ea749a7c200888d2b7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_0391e1f92e39bcd36df30ae61348965151bfa6db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="681d6400bb3c7f89bdddca1e8553c822cb570abb">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/student/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5dc88bd85459724ec9caa2a3237b2ee2f84035e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_e1b5b32ab1cdafe0a8394635fe7c332691d371f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_1361b859d38e497945957b22f51d4d1e6717faae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_2496b8505ea2b74108657bdac07d7c5ee889dd99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_d4b99806376b625499d0c8ec65c69687d3b70048/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/liguangming/AndroidStudioProjects/StudentClientAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_2c570401bcc017773bb66f9769d52877ccc986f0/classes.dex" />
+    </item>
+
+</items>
